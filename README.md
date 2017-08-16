@@ -1,2 +1,6 @@
 # matrix
-螺旋矩阵
+```
+npm i
+npm test 9
+```
+
